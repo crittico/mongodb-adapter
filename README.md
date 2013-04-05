@@ -1,3 +1,6 @@
+_Fork of 1602/mongodb-adapter for adding an aggregate method to execute query through MongoDB aggregation framework._
+_ _ _
+
 ## JugglingDB-MongoDB [![Build Status](https://travis-ci.org/1602/jugglingdb-mongodb.png)](https://travis-ci.org/1602/jugglingdb-mongodb)
 
 MongoDB adapter for jugglingdb.
